@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif">
+<img align="center" alt="Coding" width="2000" height="190" src="https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif">
 <!-- 
 ![MasterHead](https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif)-->
 <h1 align="center">Hi 👋, I'm T Shreyas</h1>
