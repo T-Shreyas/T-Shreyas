@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://tenor.com/view/nebula-gif-10261424))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm T Shreyas</h1>
 <h3 align="center">A passionate E & C Engineer from Mysore, India</h3>
 <img align="right" alt="Coding" width="140" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">
