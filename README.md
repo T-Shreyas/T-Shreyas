@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-shreyas&show_icons=true&locale=en" alt="t-shreyas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-shreyas&" alt="t-shreyas" /></p>
+
+![snake gif](https://github.com/T-Shreyas/T-Shreyas/blob/output/github-contribution-grid-snake.gif)
