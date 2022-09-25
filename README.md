@@ -14,11 +14,11 @@
 
 - 🤝 I’m looking for help with **RTL Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/T-Shreyas?tab=repositories](https://github.com/T-Shreyas?tab=repositories)
+- 👨‍💻 Check out all of my [***Projects***](https://github.com/T-Shreyas?tab=repositories)
 
 - 📫 How to reach me **tshreyastshreyas@gmail.com**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1SluWuTaeonJQZGkpB6VsO8F7td-c7VvB/view)
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1SluWuTaeonJQZGkpB6VsO8F7td-c7VvB/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
