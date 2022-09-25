@@ -3,10 +3,10 @@
 ![MasterHead](https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif)-->
 <h1 align="center">Hi 👋, I'm T Shreyas</h1>
 <h3 align="center">A passionate E & C Engineer from Mysore, India</h3>
-<img align="right" alt="Coding" width="140" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">
+<img align="right" alt="Coding" width="230" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">
 
 
-- 🔭 I’m currently working on **Raspberry Pi**
+- 🔭 I’m currently working on **Trivium Cipher**
 
 - 🌱 I’m currently learning **System Verilog**
 
@@ -16,9 +16,9 @@
 
 - 👨‍💻 Check out all of my [***Projects***](https://github.com/T-Shreyas?tab=repositories)
 
-- 📫 How to reach me **tshreyastshreyas@gmail.com**
+- 📫 How to reach me through my email ***tshreyastshreyas@gmail.com***
 
-- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1SluWuTaeonJQZGkpB6VsO8F7td-c7VvB/view)
+- 📄 Check out my [***Resume***](https://drive.google.com/file/d/1SluWuTaeonJQZGkpB6VsO8F7td-c7VvB/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
