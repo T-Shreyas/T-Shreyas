@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tshreyastshreyas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SluWuTaeonJQZGkpB6VsO8F7td-c7VvB/view?usp=sharing](https://drive.google.com/file/d/1SluWuTaeonJQZGkpB6VsO8F7td-c7VvB/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1SluWuTaeonJQZGkpB6VsO8F7td-c7VvB/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
