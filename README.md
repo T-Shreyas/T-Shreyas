@@ -35,4 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-shreyas&" alt="t-shreyas" /></p>
 
+## 😏 Cool Stuff
+### *🐍 Snake eating my contribution graph*
 ![snake gif](https://github.com/T-Shreyas/T-Shreyas/blob/output/github-contribution-grid-snake.gif)
+
