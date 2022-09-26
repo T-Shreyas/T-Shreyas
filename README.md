@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="175" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">
 
 
-- 🔭 I’m currently working on **Trivium Cipher**
+- 🔭 I’m currently working on [***Trivium Cipher***](https://en.wikipedia.org/wiki/Trivium_(cipher))
 
 - 🌱 I’m currently learning **System Verilog**
 
