@@ -23,6 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/t-shreyas-bb5b941b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t-shreyas-bb5b941b7" height="30" width="40" /></a>
+<a href="https://twitter.com/t__shreyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="T__Shreyas" height="30" width="40" /></a>
 <a href="https://instagram.com/tshreyastshreyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tshreyastshreyas" height="30" width="40" /></a>
 </p>
 
@@ -39,3 +40,5 @@
 ### *🐍 Snake eating my contribution graph*
 ![snake gif](https://github.com/T-Shreyas/T-Shreyas/blob/output/github-contribution-grid-snake.gif)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=t-shreyas&label=Profile%20views&color=0e75b6&style=flat" alt="t-shreyas" />  </p>
+<!-- <p align="center"> <a href="https://twitter.com/t__shreyas" target="blank"><img src="https://img.shields.io/twitter/follow/t__shreyas?logo=twitter&style=for-the-badge" alt="t__shreyas" /></a> </p> -->
