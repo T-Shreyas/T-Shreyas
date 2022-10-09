@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="2000" height="190" src="https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif">
 <!-- 
 ![MasterHead](https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif)-->
-<h1 align="center">Hi 👋, I'm T Shreyas</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm T Shreyas</h1>
 <h3 align="center">A passionate E & C Engineer from Mysore, India</h3>
 <img align="right" alt="Coding" width="175" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">
 
