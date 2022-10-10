@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="175" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">
 
 
-- 🔭 I’m currently working on [***Embedded Systems***](https://en.wikipedia.org/wiki/Embedded_system)
+- 🔭 I’m currently working on [***Trivium Cipher***](https://en.wikipedia.org/wiki/Trivium_(cipher))
 
-- 🌱 I’m currently learning **System Verilog**
+- 🌱 I’m currently learning ***System Verilog***
 
-- 👯 I’m looking to collaborate on **Verilog / VLSI Projects**
+- 👯 I’m looking to collaborate on ***Verilog / VLSI Projects***
 
-- 🤝 I’m looking for help with **RTL Projects**
+- 🤝 I’m looking for help with ***RTL Projects***
 
 - 👨‍💻 Check out all of my [***Projects***](https://github.com/T-Shreyas?tab=repositories)
 
