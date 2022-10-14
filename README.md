@@ -34,13 +34,18 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-shreyas&show_icons=true&locale=en&layout=compact" alt="t-shreyas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-shreyas&show_icons=true&locale=en" alt="t-shreyas" /></p>
-
+<h2> Github Stats </h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-shreyas&" alt="t-shreyas" /></p> -->
 
 ![](https://github-readme-stats.vercel.app/api?username=T-Shreyas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ 
+<a href="https://github.com/T-Shreyas/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Shreyas&layout=compact&theme=radical" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=T-Shreyas&theme=radical" alt="T-Shreyas" />
+<br/>
+<!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=T-Shreyas&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Shreyas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+-->
 
 ## 😏 Cool Stuff
 ### *🐍 Snake eating my contribution graph*
