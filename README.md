@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [***Trivium Cipher***](https://en.wikipedia.org/wiki/Trivium_(cipher))
 
-- 🌱 I’m currently learning ***System Verilog***
+- 🌱 I’m currently learning [***System Verilog***](https://www.chipverify.com/systemverilog/systemverilog-tutorial)
 
 - 👯 I’m looking to collaborate on ***Verilog / VLSI Projects***
 
