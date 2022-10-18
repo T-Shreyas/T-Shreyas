@@ -37,7 +37,9 @@
 <h2> Github Stats </h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-shreyas&" alt="t-shreyas" /></p> -->
 
-![](https://github-readme-stats.vercel.app/api?username=T-Shreyas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-Shreyas&theme=moonlight)
+![](https://github-readme-stats.vercel.app/api?username=T-Shreyas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=T-Shreyas&theme=moonlight&hide_border=false)
  
 <a href="https://github.com/T-Shreyas/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Shreyas&layout=compact&theme=radical" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=T-Shreyas&theme=radical" alt="T-Shreyas" />
