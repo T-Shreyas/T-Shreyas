@@ -1,9 +1,7 @@
 <!--<img align="center" alt="Coding" width="2000" height="190" src="https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif">    green colour = 00cf00-->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello🤖,%20There&fontSize=100&animation=fadeIn&fontAlignY=29&desc=Welcome%20to%20my%20Github%20Profile&descAlignY=51&descAlign=75)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=t-shreyas&label=Profile%20views&color=0e75b6&style=flat" alt="t-shreyas" />  </p>
-
 <h1 align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm T Shreyas</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=t-shreyas&label=Profile%20views&color=0e75b6&style=flat" alt="t-shreyas" />  </p>
 <!--![MasterHead](https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif)-->
 <!--<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm T Shreyas</h1>-->
 <h3 align="center">A passionate E & C Engineer from Mysore, India</h3>
