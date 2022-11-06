@@ -14,9 +14,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=t-shreyas&label=Profile%20views&color=0e75b6&style=flat" alt="t-shreyas" />  </p>
 <!--![MasterHead](https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif)-->
 
-<!--<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm T Shreyas</h1>-->
+<!--<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm T Shreyas</h1>
 
-<img align="right" alt="Coding" width="175" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">
+<img align="right" alt="Coding" width="175" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">-->
 
 
 - 🔭 I’m currently working on [***Trivium Cipher***](https://en.wikipedia.org/wiki/Trivium_(cipher))
