@@ -1,8 +1,8 @@
-<img align="center" alt="Coding" width="2000" height="190" src="https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif">    <!--green colour = 00cf00-->
+<img align="center" alt="Coding" width="2000" height="130" src="https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif">    <!--green colour = 00cf00-->
 <!--![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello🤖,%20There&fontSize=100&animation=fadeIn&fontAlignY=29&desc=Welcome%20to%20my%20Github%20Profile&descAlignY=51&descAlign=75)-->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&center=true&vCenter=true&duration=3000&color=14F792&size=40&height=70&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Shreyas;A+passionate+E+%26+C+Engineer+from+Mysore%2C+India;Welcome+to+my+github+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&center=true&vCenter=true&duration=4000&color=14F792&size=48&height=70&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Shreyas;A+passionate+E+%26+C+Engineer+from+Mysore%2C+India;Welcome+to+my+github+profile+!">
 </p>
 
 <!-- <h3 align="center">A passionate E & C Engineer from Mysore, India</h3>
