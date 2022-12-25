@@ -1,5 +1,6 @@
    <!--<img align="center" alt="Coding" width="2000" height="180" src="https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif"> green colour = 00cf00-->
-<img align="center" alt="Coding" width="2000" height="170" src="https://64.media.tumblr.com/4ed8952a22cfa86603e4c85959239fe5/tumblr_mtybrgRa4p1repvb2o1_500.gif">
+    
+
 <!--![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello🤖,%20There&fontSize=100&animation=fadeIn&fontAlignY=29&desc=Welcome%20to%20my%20Github%20Profile&descAlignY=51&descAlign=75)-->
 
 <p align="center">
@@ -8,6 +9,7 @@
 
 <!-- <h3 align="center">A passionate E & C Engineer from Mysore, India</h3>
 <p align="center">
+<img align="center" alt="Coding" width="2000" height="170" src="https://64.media.tumblr.com/4ed8952a22cfa86603e4c85959239fe5/tumblr_mtybrgRa4p1repvb2o1_500.gif">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=14F792&width=500&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Shreyas;A+passionate+E+%26+C+engineer+from+Mysore%2C+India)](https://git.io/typing-svg)
 </p>
 
