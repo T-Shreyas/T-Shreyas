@@ -1,5 +1,6 @@
-   <!--<img align="center" alt="Coding" width="2000" height="180" src="https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif"> green colour = 00cf00-->
-    
+   <img align="center" alt="Coding" width="2000" height="180" src="https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif"> 
+       <!--<img align="center" alt="Coding" width="2000" height="180" src="https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif"> green colour = 00cf00-->
+
 
 <!--![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello🤖,%20There&fontSize=100&animation=fadeIn&fontAlignY=29&desc=Welcome%20to%20my%20Github%20Profile&descAlignY=51&descAlign=75)-->
 
