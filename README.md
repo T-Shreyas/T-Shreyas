@@ -23,13 +23,13 @@
 <img align="right" alt="Coding" width="175" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">-->
 
 
-- 🔭 I’m currently working on [***Trivium Cipher***](https://en.wikipedia.org/wiki/Trivium_(cipher))
+- 🔭 I’m currently working as a [***Senior Engineer @ Samsung SEmiconductor India Research***](https://en.wikipedia.org/wiki/Samsung_R%26D_Institute_India,_Bangalore)
 
-- 🌱 I’m currently learning [***System Verilog***](https://www.chipverify.com/systemverilog/systemverilog-tutorial)
+<!---- 🌱 I’m currently learning [***System Verilog***](https://www.chipverify.com/systemverilog/systemverilog-tutorial)
 
 - 👯 I’m looking to collaborate on ***Verilog / VLSI Projects***
 
-- 🤝 I’m looking for help with ***RTL Projects***
+ 🤝 I’m looking for help with ***RTL Projects***-->
 
 - 👨‍💻 Check out all of my [***Projects***](https://github.com/T-Shreyas?tab=repositories)
 
