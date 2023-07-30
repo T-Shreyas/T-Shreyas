@@ -5,7 +5,7 @@
 <!--![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello🤖,%20There&fontSize=100&animation=fadeIn&fontAlignY=29&desc=Welcome%20to%20my%20Github%20Profile&descAlignY=51&descAlign=75)-->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&center=true&vCenter=true&duration=4000&color=FF6700&size=48&height=70&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Shreyas;A+passionate+E+%26+C+Engineer+from+Mysore%2C+India;Welcome+to+my+github+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&center=true&vCenter=true&duration=4000&color=FF6700&size=48&height=70&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Shreyas;A+passionate+VLSI+Engineer+from+Mysore%2C+India;Welcome+to+my+github+profile+!">
 </p>
 
 <!-- <h3 align="center">A passionate E & C Engineer from Mysore, India</h3>
@@ -18,9 +18,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=t-shreyas&label=Profile%20views&color=0e75b6&style=flat" alt="t-shreyas" />  </p>
 <!--![MasterHead](https://c.tenor.com/nVMk21RlZ7MAAAAd/nebula.gif)-->
 
-<!--<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm T Shreyas</h1>
+<!--<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm T Shreyas</h1>-->
 
-<img align="right" alt="Coding" width="175" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">-->
+img align="right" alt="Coding" width="175" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">
 
 
 - 🔭 I’m currently working as a [***Senior Engineer @ Samsung Semiconductor India Research***](https://en.wikipedia.org/wiki/Samsung_R%26D_Institute_India,_Bangalore)
