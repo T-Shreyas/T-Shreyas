@@ -23,7 +23,7 @@
 <img align="right" alt="Coding" width="175" src="https://c.tenor.com/yFV0auGOHscAAAAC/iron-man.gif">-->
 
 
-- 🔭 I’m currently working as a [***Senior Engineer @ Samsung SEmiconductor India Research***](https://en.wikipedia.org/wiki/Samsung_R%26D_Institute_India,_Bangalore)
+- 🔭 I’m currently working as a [***Senior Engineer @ Samsung Semiconductor India Research***](https://en.wikipedia.org/wiki/Samsung_R%26D_Institute_India,_Bangalore)
 
 <!---- 🌱 I’m currently learning [***System Verilog***](https://www.chipverify.com/systemverilog/systemverilog-tutorial)
 
